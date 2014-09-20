@@ -5,7 +5,7 @@ Plugin URI: https://my.cpanelping.com
 Description: Adds a widget to the wp-admin dashboard with your server status and incident log. Also, add a widget to the frontend via the (Appearence > Widgets) menu. On WordPress Multisite, this plugin must be "Network Activated".
 Author:	Jason Jersey
 Author URI: https://www.twitter.com/degersey
-Version: 1.0.0
+Version: 1.0.1
 Text Domain: cpp-widgets
 Domain Path: language
 */
