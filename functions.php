@@ -44,7 +44,7 @@ function dashboard_add_server_monitor_widget() {
 
 function dashboard_server_monitor_widget() { 
     $monitor_url = get_option("cpanelping_monitor_url");
-    echo "<iframe name='checkstatus' src='$monitor_url' marginwidth='1' marginheight='0' height='450' width='100%' border='0' frameborder='0'></iframe>";
+    echo "<iframe name='checkstatus' src='$monitor_url' marginwidth='1' marginheight='0' height='440' width='100%' border='0' frameborder='0'></iframe>";
 }
 
 function frontend_server_monitor_widget() { 
