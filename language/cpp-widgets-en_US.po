@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cPanelPing Widgets v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-09-20 02:23:20+0000\n"
+"Last-Translator: liquidnet <enqinet@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: cpp-widgets.php:0
+#: panel.php:9
+#@ cpp-widgets
+msgid "cPanelPing Widgets"
+msgstr "cPanelPing Widgets"
+
+#. translators: plugin header field 'PluginURI'
+#: cpp-widgets.php:0
+#@ cpp-widgets
+msgid "https://my.cpanelping.com"
+msgstr "https://my.cpanelping.com"
+
+#. translators: plugin header field 'Description'
+#: cpp-widgets.php:0
+#@ cpp-widgets
+msgid "Adds a widget to the wp-admin dashboard with your server status and incident log. Also, add a widget to the frontend via the (Appearence > Widgets) menu. On WordPress Multisite, this plugin must be \"Network Activated\"."
+msgstr "Adds a widget to the wp-admin dashboard with your server status and incident log. Also, add a widget to the frontend via the (Appearence > Widgets) menu. On WordPress Multisite, this plugin must be \"Network Activated\"."
+
+#. translators: plugin header field 'Author'
+#: cpp-widgets.php:0
+#@ cpp-widgets
+msgid "Jason Jersey"
+msgstr "Jason Jersey"
+
+#. translators: plugin header field 'AuthorURI'
+#: cpp-widgets.php:0
+#@ cpp-widgets
+msgid "https://www.twitter.com/degersey"
+msgstr "https://www.twitter.com/degersey"
+
+#. translators: plugin header field 'Version'
+#: cpp-widgets.php:0
+#@ cpp-widgets
+msgid "1.0.0"
+msgstr "1.0.0"
+
+#: functions.php:65
+#: functions.php:91
+#@ cpp-widgets
+msgid "Monitor Ports"
+msgstr "Monitor Ports"
+
+#: functions.php:68
+#@ cpp-widgets
+msgid "Display uptime status on the frontend."
+msgstr "Display uptime status on the frontend."
+
+#: functions.php:96
+#@ default
+msgid "Title:"
+msgstr ""
+
+#: panel.php:18
+#@ cpp-widgets
+msgid "Your Monitor"
+msgstr "Your Monitor"
+
+#: panel.php:21
+#@ cpp-widgets
+msgid "Address"
+msgstr "Address"
+
+#: panel.php:21
+#@ cpp-widgets
+msgid "(required)"
+msgstr "(required)"
+
+#: panel.php:24
+#@ cpp-widgets
+msgctxt "placeholder text"
+msgid "http://my.cpanelping.com/yourpage"
+msgstr "http://my.cpanelping.com/yourpage"
+
+#: panel.php:26
+#@ cpp-widgets
+msgid "Type your public monitor page url."
+msgstr "Type your public monitor page url."
+
+#: panel.php:28
+#@ cpp-widgets
+msgid "You can retreive your public monitor url from your cPanelPing.com <b>Settings</b> page. Enter for example, <code>http://my.cpanelping.com/yourpage</code>. Please make sure you enter the full url to your public monitor including the <code>http://</code>."
+msgstr "You can retreive your public monitor url from your cPanelPing.com <b>Settings</b> page. Enter for example, <code>http://my.cpanelping.com/yourpage</code>. Please make sure you enter the full url to your public monitor including the <code>http://</code>."
+
+#: panel.php:30
+#@ cpp-widgets
+msgid "Please note, you must have your public monitor enabled for this to work. To enable it, turn it <code>ON</code> from within your cPanelPing.com <b>Settings</b> page."
+msgstr "Please note, you must have your public monitor enabled for this to work. To enable it, turn it <code>ON</code> from within your cPanelPing.com <b>Settings</b> page."
+
+#: panel.php:40
+#@ cpp-widgets
+msgid "Save Changes"
+msgstr "Save Changes"
+
